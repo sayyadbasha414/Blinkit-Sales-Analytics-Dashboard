@@ -177,6 +177,8 @@ Increase category profitability.
 Support expansion and marketing strategies.
 Make data-driven business decisions.
 
+https://github.com/sayyadbasha414/Blinkit-Sales-Analytics-Dashboard/blob/main/Untitled.png
+
 👨‍💻 Author
 
 Sayyad Basha
